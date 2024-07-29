@@ -31,6 +31,7 @@ First, you need to prepare your data by running the `data_pre.py` script. This s
 ```python
 parser.add_argument('--input_directory', type=str, default=r'data_save\54口井的数据集', help='输入地址')
 ```
+Please go to for complete data https://www.kaggle.com/datasets/charzhang/well-log-data/data download
 
 Your data should be stored in the `data_save` directory. For testing purposes, you can use the dataset provided in the `数据读取的案例数据` file.
 
